@@ -1,4 +1,4 @@
-♻️ Incentivized Waste Recycling and Management System
+#♻️ Incentivized Waste Recycling and Management System
 
 📌 Project Overview
 This Flask-based web application promotes sustainable waste disposal by offering rewards and incentives. Users can log waste details, accumulate points for recycling, and track their contributions through interactive visualizations, making the process engaging and impactful.
