@@ -3,8 +3,7 @@
 ## 📌 **Project Overview**
 This **Flask-based web app** promotes responsible waste disposal through a **gamified rewards system**.  
 Users log waste, earn points, and track recycling trends via interactive visuals.  
-An **admin dashboard** manages reports and incentives.  
-Future plans include **AI-based waste categorization** and **mobile app integration** for enhanced sustainability. 🚀♻️  
+An **admin dashboard** manages reports and incentives 🚀♻️  
 
 ## 🚀 Features
 ✅ **User Authentication** – Secure login/signup (Flask-Login)  
@@ -46,12 +45,12 @@ cd Waste-Management-System
    ```bash
    python app.py
    ```
-
 ### 🔮 Future Enhancements
-✅**AI-based waste categorization**
-✅ **Mobile app integration**
-✅ **Payment gateway for direct incentives**
-✅ **Real-time waste tracking dashboard**
+
+- ✅ **AI-based waste categorization**  
+- ✅ **Mobile app integration**  
+- ✅ **Payment gateway for direct incentives**  
+- ✅ **Real-time waste tracking dashboard**  
 
 ### 🤝 Contributing
 Feel free to contribute, suggest improvements, or report issues!
